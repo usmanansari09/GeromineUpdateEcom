@@ -1,0 +1,54 @@
+{
+    "color": [
+      { "key": 1, "value": "Black", "hex": "#000000" },
+      { "key": 2, "value": "White", "hex": "#FFFFFF" },
+      { "key": 3, "value": "Brown", "hex": "#a52a2a" },
+      { "key": 4, "value": "Gray", "hex": "#808080" },
+      { "key": 5, "value": "Tan", "hex": "#d2b48c" },
+      { "key": 6, "value": "Yellow", "hex": "#ffff00" },
+      { "key": 7, "value": "Red", "hex": "#ff0000" },
+      { "key": 8, "value": "Cream", "hex": "#FFFDD0" },
+      { "key": 9, "value": "Burgundy", "hex": "#800020" },
+      { "key": 10, "value": "Purple", "hex": "#800080" },
+      { "key": 11, "value": "Orange", "hex": "#FFA500" },
+      { "key": 12, "value": "Pink", "hex": "#FFC0CB" },
+      { "key": 14, "value": "Blue", "hex": "#0000FF" },
+      { "key": 15, "value": "Navy", "hex": "#000080" },
+      { "key": 16, "value": "Green", "hex": "#00FF00" },
+      { "key": 17, "value": "khaki", "hex": "#F0E68C" },
+      { "key": 18, "value": "Silver", "hex": "#C0C0C0" },
+      { "key": 19, "value": "Gold", "hex": "#FFD700" },
+      { "key": 20, "value": "Multi", "hex": "", "uri": "https://i.stack.imgur.com/d3k2S.png" }
+    ],
+    "style": {
+      "source": [
+        { "key": 2, "value": "Vintage" },
+        { "key": 3, "value": "Custom" },
+        { "key": 4, "value": "Designer" },
+        { "key": 7, "value": "Reworked" },
+        { "key": 6, "value": "Handmade" },
+        { "key": 1, "value": "Pre-owned" }
+      ],
+
+      "age": [
+        { "key": 1, "value": "90s" },
+        { "key": 2, "value": "80s" },
+        { "key": 3, "value": "70s" },
+        { "key": 4, "value": "60s" },
+        { "key": 6, "value": "y2k" },
+        { "key": 7, "value": "Antique" },
+        { "key": 8, "value": "Modern" }
+      ],
+
+      "style": [
+        { "key": 1, "value": "Cute" },
+        { "key": 2, "value": "Chic" },
+        { "key": 3, "value": "Retro" },
+        { "key": 4, "value": "Boho" },
+        { "key": 8, "value": "Party" },
+        { "key": 9, "value": "Goth" },
+        { "key": 6, "value": "Streetwear" },
+        { "key": 7, "value": "Sportswear" }
+      ]
+    }
+  }

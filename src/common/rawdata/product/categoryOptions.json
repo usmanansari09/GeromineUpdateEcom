@@ -1,0 +1,35 @@
+[
+    { "key": 100, "value": "Menswear" },
+
+    { "key": 101, "value": "Tops", "label": "Menswear - Tops" },
+    { "key": 102, "value": "Bottoms", "label": "Menswear - Bottoms" },
+    { "key": 103, "value": "Underwear", "label": "Menswear - Underwear" },
+    { "key": 104, "value": "Outerwear", "label": "Menswear - Outerwear" },
+    { "key": 105, "value": "Accessories", "label": "Menswear - Accessories" },
+    { "key": 106, "value": "Shoes", "label": "Menswear - Shoes" },
+    { "key": 107, "value": "Backpack/Bag", "label": "Menswear - Backpack/bag" },
+
+    { "key": 200, "value": "Womenswear" },
+
+    { "key": 201, "value": "Tops", "label": "Womenswear - Tops" },
+    { "key": 202, "value": "Bottoms", "label": "Womenswear - Bottoms" },
+    { "key": 203, "value": "Dresses", "label": "Womenswear - Dresses" },
+    { "key": 204, "value": "Lingerie", "label": "Womenswear - Lingerie" },
+    { "key": 205, "value": "Accessories", "label": "Womenswear - Accessories" },
+    { "key": 206, "value": "Outerwear", "label": "Womenswear - Outerwear" },
+    { "key": 207, "value": "Suits", "label": "Womenswear - Suits" },
+    { "key": 208, "value": "Shoes", "label": "Womenswear - Shoes" },
+    { "key": 209, "value": "Backpack/bag", "label": "Womenswear - Backpack/bag" },
+    { "key": 210, "value": "Purse", "label": "Womenswear - Purse" },
+
+    { "key": 3, "value": "Jewelry" },
+    { "key": 4, "value": "Art" },
+    { "key": 5, "value": "Home" },
+    { "key": 6, "value": "Kids" },
+    { "key": 7, "value": "Beauty" },
+    { "key": 8, "value": "Sports Equipment" },
+    { "key": 9, "value": "Film" },
+    { "key": 10, "value": "Music" },
+    { "key": 11, "value": "Face Masks & Coverings" },
+    { "key": 12, "value": "Others" }
+  ]

@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@/common/*": ["src/common/*"],
+        "@/components/*": ["src/components/*"],
+        "@/services/*": ["src/services/*"],
+        "@/screens/*": ["src/screens/*"],
+        "@/navigation/*": ["src/navigation/*"],
+        "@/assets/*": ["src/assets/*"]
+      }
+    },
+    "exclude": ["node_modules"],
+    "include": ["src/**/**/*","App.js"]
+  }
